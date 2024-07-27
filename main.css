@@ -1,0 +1,39 @@
+*{padding: 0px; margin: 0px; font-family: Arial, Helvetica, sans-serif; background-color: antiquewhite;}
+.header{background-color: rgb(31, 37, 51); height: 81px; display: flex;}
+.Menu{margin-left: 1200px; margin-top: 21px;}
+.logo{margin-left: 50px; margin-top: 21px;}
+.section2{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+.button1{
+    border: none;
+}
+.button2{
+    border: none;
+}
+.logo1{
+    height: auto;
+    width: 18px;
+}
+.divcont2{
+
+}
+.img2{
+    margin-top: -230px;
+    margin-left: -499px;
+    height: 272px;
+    width: 468px;
+}
+.img1{
+    margin-top: 200px;
+    margin-left: -60px;
+}
+.img4{
+    margin-top: auto;
+    margin-left: auto;
+    height: 272px;
+    width: 468px;
+}
